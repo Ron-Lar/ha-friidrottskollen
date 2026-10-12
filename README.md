@@ -1,4 +1,5 @@
 # Friidrottskollen för Home Assistant
+Använd på egen risk, denna är Beta!!!
 
 Visar när och var en svensk friidrottare tävlar, med TV-kanal och sändningstid.
 Data hämtas från Svenska Friidrottsförbundets sidor *Friidrottskollen* och *TV-tablå* på friidrott.se.
