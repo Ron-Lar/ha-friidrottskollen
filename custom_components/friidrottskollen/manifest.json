@@ -1,11 +1,14 @@
 {
   "domain": "friidrottskollen",
   "name": "Friidrottskollen",
-  "codeowners": [],
+  "codeowners": [
+    "@Ron-Lar"
+  ],
   "config_flow": true,
-  "documentation": "https://www.friidrott.se/tavling-landslag/elit-landslag/friidrottskollen-vem-tavlar-nar-och-var/",
+  "documentation": "https://github.com/Ron-Lar/ha-friidrottskollen",
   "integration_type": "service",
   "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/Ron-Lar/ha-friidrottskollen/issues",
   "requirements": [],
   "version": "0.1.0"
 }
