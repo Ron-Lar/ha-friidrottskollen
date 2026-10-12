@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Friidrottskollen",
+        "description": "Enter the athlete's name exactly as written in Friidrottskollen on friidrott.se.",
+        "data": { "atlet": "Athlete" }
+      }
+    },
+    "error": { "cannot_connect": "Could not reach friidrott.se." },
+    "abort": { "already_configured": "This athlete is already configured." }
+  }
+}

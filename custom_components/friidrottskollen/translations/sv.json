@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Friidrottskollen",
+        "description": "Ange idrottarens namn exakt som det skrivs i Friidrottskollen på friidrott.se.",
+        "data": { "atlet": "Idrottare" }
+      }
+    },
+    "error": { "cannot_connect": "Kunde inte nå friidrott.se." },
+    "abort": { "already_configured": "Den här idrottaren är redan tillagd." }
+  }
+}
